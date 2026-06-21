@@ -7,15 +7,17 @@ named exactly after your GitHub username (Nithyasri109/Nithyasri109) so it displ
 -->
 
 <div align="center">
-  <!-- Custom Cyberpunk Header -->
-  <img src="./header.svg" width="850" alt="Cyberpunk Banner" />
+  <!-- Custom Cyberpunk Header (Absolute raw path to prevent breaking) -->
+  <img src="https://raw.githubusercontent.com/Nithyasri109/Nithyasri109/main/header.svg" width="850" alt="Cyberpunk Banner" />
 
   <br/>
   
-  <!-- Subheading / Status Badge -->
+  <!-- Subheading / Status Badges -->
   <img src="https://img.shields.io/badge/STATUS-SYSTEMS_ACTIVE-00f0ff?style=flat-square&logo=visual-studio-code&logoColor=00f0ff&labelColor=0a0a12" alt="Status Badge"/>
   <img src="https://img.shields.io/badge/SECTOR-FULLSTACK_DEV-ff007f?style=flat-square&logo=git&logoColor=ff007f&labelColor=0a0a12" alt="Sector Badge"/>
   <img src="https://img.shields.io/badge/LOCATION-EARTH-7000ff?style=flat-square&labelColor=0a0a12" alt="Location Badge"/>
+  <!-- Profile Visitor Counter (Matching Theme) -->
+  <img src="https://komarev.com/ghpvc/?username=Nithyasri109&label=SYSTEM_ACCESSES&color=00f0ff&style=flat-square&labelColor=0a0a12" alt="Visitor Counter" />
   
   <br/>
   <br/>
@@ -48,6 +50,31 @@ named exactly after your GitHub username (Nithyasri109/Nithyasri109) so it displ
         <!-- Streak Card -->
         <br/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithyasri109&theme=black-ice&background=0a0a12&fire=ff007f&ring=00f0ff&text=a0aec0&stroke=7000ff&currStreakNum=00f0ff" width="810" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+### 💾 CURRENT OPERATIONS (FEATURED MODULES)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithyasri109&repo=AstraSafe&theme=neon&bg_color=0a0a12&title_color=00f0ff&icon_color=ff007f&text_color=a0aec0&border_color=7000ff" width="400" alt="AstraSafe Card"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithyasri109&repo=LeafyLife&theme=neon&bg_color=0a0a12&title_color=00f0ff&icon_color=ff007f&text_color=a0aec0&border_color=7000ff" width="400" alt="LeafyLife Card"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithyasri109&repo=RideFlow&theme=neon&bg_color=0a0a12&title_color=00f0ff&icon_color=ff007f&text_color=a0aec0&border_color=7000ff" width="400" alt="RideFlow Card"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithyasri109&repo=Mern&theme=neon&bg_color=0a0a12&title_color=00f0ff&icon_color=ff007f&text_color=a0aec0&border_color=7000ff" width="400" alt="Mern Card"/>
       </td>
     </tr>
   </table>
@@ -112,6 +139,18 @@ learning_focus = "Distributed Systems, WebAssembly, and AI Agents Integration"
 core_philosophy = "Write self-documenting code; optimize early when scaling; build beautiful interfaces."
 fun_fact = "My IDE theme is darker than the dark side of the moon."
 ```
+</details>
+
+<details>
+<summary><b>📂 execution_schedule.log</b> <i>[Click to expand]</i></summary>
+<br/>
+
+| Time-Slice | Process Thread | Activity Description |
+| :--- | :--- | :--- |
+| `0000 - 0800` | `sys.sleep()` | Memory reorganization, defragmentation & deep sleep |
+| `0800 - 1200` | `sys.compile()` | Architecting robust backend engines (Go / Node.js) |
+| `1200 - 1700` | `sys.render()` | Constructing high-fidelity user experiences & responsive layouts (React) |
+| `1700 - 2400` | `sys.experiment()`| Side projects, deep learning exploration, and agentic workflows |
 </details>
 
 <details>
