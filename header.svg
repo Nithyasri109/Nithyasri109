@@ -35,10 +35,8 @@
 
   <style>
     /* CSS Styling & Animations */
-    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&amp;family=Outfit:wght@800&amp;display=swap');
-
     .title-text {
-      font-family: 'Outfit', 'Segoe UI', system-ui, sans-serif;
+      font-family: 'Outfit', 'Segoe UI', system-ui, -apple-system, sans-serif;
       font-weight: 800;
       font-size: 36px;
       fill: #ffffff;
@@ -154,7 +152,7 @@
     <circle cx="45" cy="15" r="5" fill="#27c93f" />
     
     <!-- Path breadcrumb / status -->
-    <text x="70" y="19" class="mono-text" font-size="11">guest@cyber-terminal: ~/<span class="mono-accent">profile</span></text>
+    <text x="70" y="19" class="mono-text" font-size="11">guest@cyber-terminal: ~/<tspan class="mono-accent">profile</tspan></text>
     
     <!-- Decorative scanline panel/badge -->
     <rect x="680" y="5" width="90" height="18" rx="3" fill="#1a1a2e" stroke="#00f0ff" stroke-width="0.5" opacity="0.8" />
